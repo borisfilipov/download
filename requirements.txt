@@ -1,0 +1,5 @@
+pandas
+numpy
+openpyxl
+requests
+datadog_api_client
